@@ -1,6 +1,4 @@
 SmartPacking-TFG
 ================
 
-Deliveries of my Final Project
-
-Prueba
+Deliveries of my end-of-degree project
